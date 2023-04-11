@@ -1,13 +1,2 @@
-- zzchen git trip !
-- 👋 Hi, I’m @zzs-1234
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-zzs-1234/zzs-1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # chen的Github仓库
 <img src="https://img0.baidu.com/it/u=2650007003,3766509832&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=500"/>
